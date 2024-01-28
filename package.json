@@ -1,0 +1,23 @@
+{
+  "name": "cypress-cucumber-transferencia-de-fundos",
+  "version": "1.0.0",
+  "description": "Este projeto demonstra testes automatizados usando Cypress e Cucumber para realizar transferências de fundos em um site bancário.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Thatiane Xavier",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": "cypress/e2e/step_definitions"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.44"
+  }
+}

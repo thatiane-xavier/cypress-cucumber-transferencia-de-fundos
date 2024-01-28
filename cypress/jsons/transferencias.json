@@ -1,0 +1,32 @@
+[
+  {
+    "transactionID": "10209",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "$547.77"
+  },
+  {
+    "transactionID": "10208",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "-$547.77"
+  },
+  {
+    "transactionID": "10207",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "$738.94"
+  },
+  {
+    "transactionID": "10206",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "-$738.94"
+  },
+  {
+    "transactionID": "10205",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "$836.61"
+  },
+  {
+    "transactionID": "10204",
+    "transactionTime": "2024-01-28 16:47",
+    "transactionAmount": "-$836.61"
+  }
+]

@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Cypress
+/cypress/screenshots/
+
+# IDE
+.vscode/
+.idea/
+
+# Cypress generated files
+cypress.env.json
+cypress.json

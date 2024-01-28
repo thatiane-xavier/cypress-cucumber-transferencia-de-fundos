@@ -1,0 +1,10 @@
+{
+  "default": {
+    "format": ["@cucumber/pretty-formatter"],
+    "formatOptions": {
+      "colorsEnabled": true
+    },
+    "requireModule": ["js-node/register"],
+    "require": ["e2e/step_definitions/*.js"]
+  }
+}
