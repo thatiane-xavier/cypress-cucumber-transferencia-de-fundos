@@ -11,7 +11,7 @@ Este projeto demonstra testes automatizados usando Cypress e Cucumber para reali
 ## Ferramentas Utilizadas
 
 - Cypress: Um framework de teste de ponta a ponta moderno.
-- Cucumber: Uma ferramenta de Desenvolvimento Orientado por Comportamento (BDD) para escrever cenários legíveis por humanos.
+- Cucumber: Uma ferramenta de Desenvolvimento Orientado por Comportamento (BDD).
 - Moment Timezone: Uma biblioteca para lidar com fusos horários.
 
 ## Pré-requisitos
@@ -24,13 +24,13 @@ Antes de executar os testes, certifique-se de ter as seguintes dependências ins
 
 1. Clone este repositório em sua máquina local:
     ```
-    git clone <repository-url>
+    git clone https://github.com/thatiane-xavier/cypress-cucumber-transferencia-de-fundos.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```
-    cd <project-folder>
+    cd cypress-cucumber-transferencia-de-fundos
     ```
 
 3. Instale as dependências do projeto:
